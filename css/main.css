@@ -1,0 +1,31 @@
+*
+{
+	margin: 0px;
+	padding: 0px;
+}
+
+#container
+{
+	max-width: 100%;
+}
+
+#myimage
+{
+	float:left;
+	margin:2px 2px 2px 1px;
+	border:1px solid red;
+	width: 50%;
+}
+
+#myinfo
+{
+	float:right;
+	border: 1px solid green;
+	margin:2px 2px 2px 1px;
+	width: 45%;
+}
+
+#clearfix
+{
+	clear:both;
+}
